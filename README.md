@@ -1,3 +1,4 @@
+![Screenshot 2020-09-17 133446](https://user-images.githubusercontent.com/71442999/93474089-32233480-f8f7-11ea-926d-616589a82518.png)
 # Java-2Dgame
 Java 2D-game , tried to make it as close as possible to the real deal: the classic Missile command i played as a kid. \
 Everything was done object-oriented in Java.\
